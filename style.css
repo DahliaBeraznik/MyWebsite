@@ -1,0 +1,55 @@
+ 
+img{
+	width:50%; 
+  }
+
+body{
+	background-image: url("https://i.ytimg.com/vi/tPO_21ETfFk/maxresdefault.jpg");
+
+}
+
+
+
+.center {
+	text-align: center;
+	font-size: 70px;
+	color: white;
+	font-family: 'Kavivanar', cursive;
+
+}
+.photo {
+	margin:auto;
+	display: block;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin: 10%;
+}
+
+.name {
+	font-family: 'Kavivanar', cursive;
+	color: blue;
+	font-size: 3em;
+}
+
+.age{
+	font-family: 'Kavivanar', cursive;
+	color:blue;
+	font-size: 2em;
+}   
+
+
+.hobbies{
+	font-family: 'Kavivanar', cursive;
+	color: yellow;
+	font-size: 2em;
+
+}
+
+iframe {
+	margin-left:16em;
+	margin-top: 5em;
+	
+}
